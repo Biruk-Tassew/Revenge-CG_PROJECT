@@ -8,5 +8,5 @@ you can also use the command:
   
  # Here is what the game looks like
  
- ![This is an image](https://github.com/Biruk-Tassew/Revenge-CG_PROJECT/dev/assets/readMe_files/front.png)
+ ![This is an image](https://github.com/Biruk-Tassew/Revenge-CG_PROJECT/blob/dev/assets/readMe_file/reve.png)
 #### By: Biruk Anley UGR/3923/12 and Biruk Tassew UGR/2004/12
